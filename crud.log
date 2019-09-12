@@ -1,0 +1,5 @@
+[[32mINFO [m] 2019-09-11 20:11:41,850 Test.main() - elelelel
+[[1;31mERROR[m] 2019-09-11 20:11:41,858 Test.main() - elelelel
+[[36mDEBUG[m] 2019-09-11 20:11:42,314 DatabaseConn.connect() - Database Connection Successful
+[[32mINFO [m] 2019-09-11 20:11:42,314 DatabaseConn.connect() - Entering application.
+[[36mDEBUG[m] 2019-09-11 20:14:54,796 DatabaseConn.deleteRecord() - Employee not found
